@@ -16,6 +16,7 @@ public class ProductInfo extends javax.swing.JFrame {
     /**
      * Creates new form ProductInfo
      */
+
     public ProductInfo() {
         initComponents();
     }
